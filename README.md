@@ -10,4 +10,4 @@ I realy apreciated if codes and works published here helped you.
 
 ---
 
-You can reach me here: :mailbox_with_mail: jrtonin03@gmail.com or add me on 💼 [Linkedin](https://www.linkedin.com/in/jrtonin/?locale=en_US)
+You can reach me here: :mailbox_with_mail: jrtonin03@gmail.com or add me on :briefcase: [Linkedin](https://www.linkedin.com/in/jrtonin/?locale=en_US)
