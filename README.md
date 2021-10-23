@@ -1,12 +1,12 @@
 ## Hello, :raising_hand_man:
 
-I'm **Tonin** and it's soo nice to see you here! \ 
-I realy apreciated if codes and works published here helped you. \
+I'm **Tonin** and it's soo nice to see you here! <br /> 
+I realy apreciated if codes and works published here helped you. 
 
 ---
-:man_student: I'm doctorate in Economics from Federal University of Paraná \
-:briefcase: Actually working with data science and economics projets at Parana Projetas and State Governament of Parana.\
-:studio_microphone: Also, I'm Radio Personality at CBN Maringá News \
+:man_student: I'm doctorate in Economics from Federal University of Paraná 
+:briefcase: Actually working with data science and economics projets at Parana Projetas and State Governament of Parana.
+:studio_microphone: Also, I'm Radio Personality at CBN Maringá News 
 
 ---
 
