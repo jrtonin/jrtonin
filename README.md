@@ -11,3 +11,5 @@ Feel free to contact me: <br />
 [<img src="https://img.shields.io/badge/-Linkedin-blue">](https://www.linkedin.com/in/jrtonin/?locale=en_US)
 [<img src="https://img.shields.io/badge/-Instagram-orange">](https://www.instagram.com/jrtonin/)
 [<img src="https://img.shields.io/badge/-E--mail-brightgreen">](mailto:jrtonin03@gmail.com)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jrtonin.visitor-badge)
