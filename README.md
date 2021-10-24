@@ -12,4 +12,12 @@ Feel free to contact me: <br />
 [<img src="https://img.shields.io/badge/-Instagram-orange">](https://www.instagram.com/jrtonin/)
 [<img src="https://img.shields.io/badge/-E--mail-brightgreen">](mailto:jrtonin03@gmail.com)
 
+### Languages and Tools:
+
+![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=Rstudio)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PowerBI](https://img.shields.io/badge/-PowerBI-181717?style=flat-square&logo=PowerBI)
+![QGIS](https://img.shields.io/badge/-QGIS-181717?style=flat-square&logo=QGIS)
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jrtonin.visitor-badge)
