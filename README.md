@@ -13,7 +13,7 @@ I'm **Tonin**, economist and data scientist from State Government of Parana :bri
 [<img src="https://img.shields.io/badge/-E--mail-brightgreen">](mailto:jrtonin03@gmail.com)
 
 ## :bulb: Technologies:
-![R](https://img.shields.io/badge/-R-black?logo=r&style=social)&nbsp;&nbsp;
+![R](https://img.shields.io/badge/-R-black?logo=rstudio&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
