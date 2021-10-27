@@ -13,10 +13,18 @@ I'm **Tonin**, economist and data scientist from State Government of Parana :bri
 [<img src="https://img.shields.io/badge/-E--mail-brightgreen">](mailto:jrtonin03@gmail.com)
 
 ## :bulb: Technologies:
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=Rstudio)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=PowerBI)
-![QGIS](https://img.shields.io/badge/-QGIS-green?style=flat-square&logo=QGIS)
+![R](https://img.shields.io/badge/-R-black?logo=latex&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=latex&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=latex&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![QGIS](https://img.shields.io/badge/-QGIS-black?logo=latex&style=social)&nbsp;&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jrtonin.visitor-badge)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=jrtonin"
+    alt="jrtonin"
+  />
+</p>
+
+
